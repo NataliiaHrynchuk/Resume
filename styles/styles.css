@@ -202,13 +202,15 @@ body {
 	color: #ffffff;
 	margin-right: 10px;
 }
-
+.auth__icon {
+	fill: #a2a5aa;
+}
 .contact-line {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
 	line-height: 24px;
-	color: #565e6a;
+	color: #a2a5aa;
 }
 .tech-skills-list,
 .soft-skills-list {
